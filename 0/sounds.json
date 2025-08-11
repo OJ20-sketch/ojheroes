@@ -1,8 +1,0 @@
-{
-  "cas.speech": {
-      "sounds": [
-        "suit/cas_speech"
-      ],
-    "category": "player"
-  }
-}
